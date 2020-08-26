@@ -1,1 +1,1 @@
-SELECT species FROM characters 
+UPDATE species FROM characters 
