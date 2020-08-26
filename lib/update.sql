@@ -1,1 +1,1 @@
-SELECT species FROM 
+SELECT species FROM characters 
